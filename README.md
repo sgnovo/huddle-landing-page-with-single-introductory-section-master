@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/sgnovo/huddle-landing-page-with-single-introductory-section-master)
+- Live Site URL: [Netlify](https://sgnovo-huddle-landing-page.netlify.app/)
 
 ### Built with
 
