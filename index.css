@@ -160,7 +160,6 @@ body {
 .btn:hover {
     background-color: var(--soft-magenta);
     color: #fff;
-    transform: translateY(-.2rem);
 }
 
 .flow > * + * {
